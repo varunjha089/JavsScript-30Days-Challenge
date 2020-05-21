@@ -11,4 +11,5 @@ be building an application which will respond to key via an `eventListener`. Ple
 
 
 ## Day 2
-Day 2 project is [`CSS + JS Clock`](JavaScript-Files/Day-02) project. In this project we will be building an application 
+Day 2 project is [`CSS + JS Clock`](JavaScript-Files/Day-02) project. In this project we will be building an application. Please read more about theis project
+[here](./JavaScript-Files/Day-02/README.md).
