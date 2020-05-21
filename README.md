@@ -7,7 +7,8 @@ at [here](https://wesbos.com/courses). All the assets used in this project belon
 
 ## Day 1 
 Day 1 project is [`Javascript Drum kit`](JavaScript-Files/Day-01) project. In this project we will 
-be building an application which will respond to key via an `eventListener`. Please read more about this project [here](./JavaScript-Files/Day-01/README.md).
+be building an application which will respond to key via an `eventListener`. Please read more about this project [here](JavaScript-Files/Day-02/README.md).
 
 
 ## Day 2
+Day 2 project is [`CSS + JS Clock`](JavaScript-Files/Day-02) project. In this project we will be building an application 
